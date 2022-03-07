@@ -12,6 +12,8 @@ from matplotlib import style
 import math
 
 #-------------=====================Runge-Kutta--------------------------- 
+
+
 def f(y,v): #y=p
     return -1-4*k*k*y*y-4*k*k*y*v*v+y*(2*g1*k-w*w)
 
