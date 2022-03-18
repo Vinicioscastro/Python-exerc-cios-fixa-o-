@@ -4,6 +4,8 @@
 # Tutorial de: David Toro Meneses
 # ALUNO: VINICIOS PEREIRA DA COSTA CASTRO
 
+
+
 import numpy as np
 import warnings
 
