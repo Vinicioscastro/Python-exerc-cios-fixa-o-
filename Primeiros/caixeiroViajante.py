@@ -1,6 +1,7 @@
 #PROBLEMA DO CAIXEIRO VIAJANTE
 auxiliar = 0
 #APENAS 4 CIDADES
+
 print(' ')
 print('===== TODAS AS ROTAS POSSIVEIS ======')
 print(' ')
