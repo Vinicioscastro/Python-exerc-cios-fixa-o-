@@ -1,3 +1,4 @@
+
 d= float(input("Quantos dias: "))
 km = float(input('quantos Km: '))
 
