@@ -14,8 +14,6 @@ rota4 = ["A", "C", "D", "B", "A"]
 rota5 = ["A", "D", "B", "C", "A"]
 rota6 = ["A", "D", "C", "B", "A"]
 
-
-
 opcoes = [rota1, rota2, rota3, rota4, rota5, rota6]
 
 for n in [0,1,2,3,4,5]:
